@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Hrithik
 - 👀 I’m interested in web3-Blockchain
-- 🌱 I’m currently learning Blockchain
+- 🌱 I’m currently learning Blockchain-Solana
 - 📫 https://linktr.ee/hrithikkeswani
 
 <!---
