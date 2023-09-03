@@ -1,4 +1,11 @@
-<h2 align="left">Hi 👋! My name is Hrithik keswani</h2>
+<h1 align="center">Hello 👋! My name is Hrithik keswani</h1>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Hrithik200&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Hrithik200&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
 
 ###
 
@@ -51,10 +58,12 @@
 
 ###
 
-<br clear="both">
-
-<div align="left">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=hrithikkeswani200&theme=gruvbox_light" alt="Layout with last medium posts"  />
+<div align="center">
+  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=6&username=hrithikkeswani200&theme=radical" alt="Layout with last medium posts"  />
 </div>
+
+###
+
+<img src="https://raw.githubusercontent.com/Hrithik200/Hrithik200/output/snake.svg" alt="Snake animation" />
 
 ###
