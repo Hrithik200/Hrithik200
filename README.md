@@ -12,4 +12,4 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hrithik-keswani200/) 
 
 ## Coding Ninjas Stats:
-![Coding Ninjas Stats](https://www.codingninjas.com/studio/profile/hrithik_keswani)
+[![Coding Ninjas](https://img.shields.io/badge/Coding%20Ninjas-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.codingninjas.com/studio/profile/hrithik_keswani)
