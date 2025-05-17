@@ -2,14 +2,13 @@
 <h3 align="center">A passionate Blockchain developer from India</h3>
 
 # 💫 About Me:
-🔭 I’m currently working on **fullstack and web3 development projects.**<br>
-👯 I’m looking to collaborate on **building communitites, and research projects.**<br> 
-🌱 I’m currently learning **Web3, Hardhat, Ethers.js and Solidity.**<br>
-💬 Ask me about **Web3 and Blockchain**<br>
+
+💬 I’m a blockchain developer who also builds production-ready backend systems to handle Web3 transaction flows, integrate smart contracts, and ensure database consistency. I don’t just write smart contracts — I design and deliver complete systems that are secure, scalable, and reliable in production.
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hrithik-keswani200/) 
+- 💼 LinkedIn: [Hrithik Keswani](https://www.linkedin.com/in/hrithik-keswani200/)  
+- 🐦 X (Twitter): [@hrithik_keswani](https://x.com/hrithik_keswani)
 
 ## Coding Ninjas Stats:
 [![Coding Ninjas](https://img.shields.io/badge/Coding%20Ninjas-%230077B5.svg?logo=CodingNinjas&logoColor=orange)](https://www.codingninjas.com/studio/profile/hrithik_keswani)
